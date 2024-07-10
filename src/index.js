@@ -11,7 +11,7 @@ const app = express();
 // app.use(cors());
 app.use(
   cors({
-    origin: "https://shyneddy.github.io",
+    origin: "https://book-v2-9192a.web.app",
     credentials: true,
   })
 );
